@@ -25,4 +25,4 @@ def nt_to_gexf(input_file, output_file):
     print(f"Arquivo convertido salvo em: {output_file}")
 
 # Exemplo de uso
-nt_to_gexf("rede_intelectual_reduzida.nt", "output.gexf")
+nt_to_gexf("rede_intelectual_reduzida.nt", "grafo.gexf")
